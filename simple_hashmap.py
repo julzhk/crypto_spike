@@ -23,3 +23,6 @@ i.add('hello')
 i.add('hello world')
 i.add('hello world!')
 i.output()
+# 5d41402abc4b2a76b9719d911017c592 : hello
+# 5eb63bbbe01eeed093cb22bb8f5acdc3 : hello world
+# fc3ff98e8c6a0d3087d515c0473f8677 : hello world!
